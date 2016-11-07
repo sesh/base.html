@@ -44,6 +44,11 @@ There's a bunch of analytics options out there and Google provides one of them.
 Our aim is to not be opinionated so you'll need to include your own analytics package.
 
 
+## Contributing
+
+Before committing please make sure that any changes pass `htmlhint` (with the default settings).
+
+
 ## Resources
 
 - Josh Buchea's excellent [HEAD][head] project

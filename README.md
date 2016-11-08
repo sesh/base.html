@@ -53,7 +53,8 @@ Before committing please make sure that any changes pass `htmlhint` (with the de
 
 - Josh Buchea's excellent [HEAD][head] project
 - [HTML5 Boilerplate][html5-bp]
-
+- Sitepoint's [Minimal HTML Document][sitepoint-html5]
+- CSS Wizardry's [Real HTML5 Boilerplate][real-html5]
 
   [head]: http://gethead.info/
   [html5-bp]: https://github.com/h5bp/html5-boilerplate
@@ -63,3 +64,5 @@ Before committing please make sure that any changes pass `htmlhint` (with the de
   [modernizr]: https://modernizr.com/
   [favicon-cheat-sheet]: https://github.com/audreyr/favicon-cheat-sheet
   [html5shiv]: https://github.com/aFarkas/html5shiv
+  [real-html5]: http://csswizardry.com/2011/01/the-real-html5-boilerplate/
+  [sitepoint-html5]: https://www.sitepoint.com/a-minimal-html-document-html5-edition/

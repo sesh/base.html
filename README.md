@@ -56,6 +56,10 @@ Before committing please make sure that any changes pass `htmlhint` (with the de
 - Sitepoint's [Minimal HTML Document][sitepoint-html5]
 - CSS Wizardry's [Real HTML5 Boilerplate][real-html5]
 
+---
+
+Favicon credit: Baseball Field by Ryan Choi from the Noun Project
+
   [head]: http://gethead.info/
   [html5-bp]: https://github.com/h5bp/html5-boilerplate
   [jquery]: https://jquery.com

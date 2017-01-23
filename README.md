@@ -10,19 +10,20 @@ curl http://basehtml.xyz > base.html
 
 ## Rationale
 
-[HTML Boilerplate][html5-bp] is the gold standard of HTML base templates but over the years has become (a little) bloated.
+[HTML Boilerplate][html5-bp] is the gold standard of HTML base templates but I've always wanted something simpler.
 
 We don't need to force decisions about JS / CSS layout in our base template, you're an adult - you can make those mistakes yourself.
-It should no longer be considered best practice to always include [JQuery][jquery] (or really any third party JS / CSS).
-Plus, and this is awesome, if you're using a [modern SSL configuration][ssl-config] you no longer have to worry about IE 10 compatibility.
+It should no longer be considered best practice to always include [JQuery][jquery] (or any third party JS / CSS).
+Plus, and this is awesome, if you're using a [modern SSL configuration][ssl-config] you no longer have to worry about IE 10 compatibility (so no more `ie` css tags that you remove with JS).
 
 This `base.html` project aims to be as minimal and un-opinionated as possible, including _only_ things that would be considered best practice for 99% of web projects.
 
 
 ## Browser Support
 
-100%! No, but really, there's nothing in the `base.html` that will break in any (relatively modern) browser.
+100%! No, but really, there's nothing in the `base.html` that will break in any browser.
 What's not included is code that specifically adds support for older browsers.
+Or really any actual code beyond a very simple base.
 That means there's no CSS reset, [`normalize.css`][normalize] or [`modernizr.js`][modernizr] - so if you want to support old version of IE you'll have to include those yourself.
 
 If you want to use HTML5-style markup (`<section>`, `<article>`, `<nav>`, etc.) and still support IE9 you'll need to include something like [`html5shiv`][html5shiv].

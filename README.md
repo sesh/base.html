@@ -4,7 +4,7 @@
 ## Usage
 
 ```
-curl http://basehtml.xyz > base.html
+curl https://basehtml.xyz > base.html
 ```
 
 

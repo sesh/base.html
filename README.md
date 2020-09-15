@@ -42,7 +42,9 @@ Sure. Use whichever one you want! You just have to include it yourself.
 #### ...Google Analytics?
 
 There's a bunch of analytics options out there and Google provides one of them.
-Our aim is to not be opinionated so you'll need to include your own analytics package.
+Our aim is to not be opinionated so you'll need to include your own analytics package
+(if you really want a recommendation you can support the creator of this template by using my referral code for [Fathom Analytics](https://usefathom.com/ref/GQ3I7T).
+
 
 
 ## Contributing

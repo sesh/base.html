@@ -1,4 +1,4 @@
-`base.html` represents the absolute minimum that you should include in your base template.
+`base.html` represents the minimum that you should include in your base template.
 
 
 ## Usage

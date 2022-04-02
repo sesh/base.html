@@ -34,6 +34,7 @@ If you want to use HTML5-style markup (`<section>`, `<article>`, `<nav>`, etc.) 
 #### ...setting a favicon?
 
 Just include `favicon.ico` in the root of your site as recommended by Audrey Feldroy's amazingly detailed [favicon-cheat-sheet][favicon-cheat-sheet].
+I have a set of very small icons you can use in [sesh/favicons] (mostly to avoid the 404).
 
 #### ...including a css reset?
 
@@ -72,3 +73,4 @@ Favicon credit: Baseball Field by Ryan Choi from the Noun Project
   [html5shiv]: https://github.com/aFarkas/html5shiv
   [real-html5]: http://csswizardry.com/2011/01/the-real-html5-boilerplate/
   [sitepoint-html5]: https://www.sitepoint.com/a-minimal-html-document-html5-edition/
+  [sesh/favicons]: https://github.com/sesh/favicons

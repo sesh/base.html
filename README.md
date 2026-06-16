@@ -63,7 +63,7 @@ Before committing please make sure that any changes pass `htmlhint` (with the de
 
 Favicon credit: Baseball Field by Ryan Choi from the Noun Project
 
-  [head]: http://gethead.info/
+  [head]: https://github.com/joshbuchea/HEAD
   [html5-bp]: https://github.com/h5bp/html5-boilerplate
   [jquery]: https://jquery.com
   [ssl-config]: https://mozilla.github.io/server-side-tls/ssl-config-generator/
